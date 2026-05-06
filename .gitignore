@@ -1,0 +1,14 @@
+# Environment-specific files
+*.env
+local.settings.json
+
+# Secrets
+*.key
+*.pfx
+
+# Temp exports
+*.zip.bak
+
+# OS files
+.DS_Store
+Thumbs.db
